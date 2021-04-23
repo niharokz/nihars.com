@@ -4,7 +4,7 @@ pages:
   before_script:
   - pip install pidgeotto
   script:
-  - pidgey nihars.py
+  - pidgey build
   artifacts:
     paths:
     - public
