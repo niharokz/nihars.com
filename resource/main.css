@@ -1,0 +1,14 @@
+:root {--bg:#ECF4F4; --txt:#0D1D1C; --thm:#357670}
+@media (prefers-color-scheme: dark) {:root {--bg:#050B0A; --txt:#C6DFDD; --thm:#42938C}}
+body {font: 1.2em/1.4em sans-serif;	background: var(--bg);	color: var(--txt);	max-width: 600px;	margin: 1em auto;	padding: 0 5% }
+h1,h2 {line-height: 1.2em}
+hr {border: 2px solid #000}
+a {color: var(--thm); text-decoration: none}
+a:hover {color: var(--bg); background-color: var(--thm); padding: 3px}
+header h1 {color: var(--thm);font-size: 1.2em; display: inline }
+nav {font-weight: bold; display:inline}
+ul {padding-left: 20px; list-style-type:'-- '}
+pre {border: 1px solid var(--txt); padding: 1em; overflow-x: auto}
+code {background: var(--thm)}
+pre code {background: none}
+img, iframe, video {max-width: 100%}

@@ -1,0 +1,12 @@
+pages:
+  image: python:3.9
+  stage: build
+  before_script:
+  - pip install pidgeotto
+  script:
+  - pidgey nihars.py
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
