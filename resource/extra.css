@@ -1,6 +1,5 @@
-
-:root {--bg: #FFF;--txt: #0d1d1c;--thm: #42938C }
-html[data-theme='dark'] { --bg : #000; --txt: #d9e9e8; --thm: #42938C }
+:root {--bg:#ECF4F4; --txt:#0D1D1C; --thm:#357670}
+@media (prefers-color-scheme: dark) {:root {--bg:#050B0A; --txt:#C6DFDD; --thm:#42938C}}
 *, *:after, *:before { box-sizing: border-box}
 body { max-width: 720px } 
 textarea {background-color: var(--bg);color: var(--txt);width: 50%;min-height : 100px;overflow: auto}
