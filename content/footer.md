@@ -3,6 +3,6 @@
 <a href="/">homepage</a> //
 <a href="/rss.xml">feed</a> //
 <a rel="me" href="https://linuxrocks.online/@nihar">mastodon</a> //
-<a href="https://gitlab.com/niharokz">gitlab</a> //
-<a href="https://portal.mozz.us/gemini/gem.nihar.page">gemini</a> //
+<a href="https://github.com/niharokz">github</a> //
+<a href="/wiki.html">wikipage</a> //
 <a href="/privacy.html">privacy</a>

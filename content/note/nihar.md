@@ -2,28 +2,22 @@
 title : "about nihar"
 subtitle : "about nihar"
 showInHome : False
-date : 2021-04-23
+date : 2021-04-24
 ---
 
-I am Nihar Samantaray, a polyglot developer from Bhubaneswar, India.<br>
-I enjoy turning complex codes and projects into simple and modular ones1.
+<img src="/nihar.jpg" height="120" style="float: right;margin-left: 3%">
+I am Nihar Samantaray, a developer from India.
+I enjoy turning complex codes and projects into simple and modular ones.
+By day, I am a System Engineer at Edgeverve where we build modern banking applications. By night, I am an open-source developer.
 
-By day, I am a System Engineer at Edgeverve where we build modern banking applications.<br>
-By night, I am an open-source developer.
-
-* I can code in Rust, Nim, Haskell, C, Javascript, Java, C++14, Bash, Python.
-* Prefers command-line workflow. VIM over VSCode any day, anytime.
-* My workflow
-  * Acer Predator
-  * BTW, I use Arch
-  * Dwm by suckless
-  * Samsung A50 with Fdroid, newpipe
+* I can code in Rust, Nim, Haskell, C, Javascript, Java, Bash, Python.
+* Prefers CLI workflow. VIM over VSCode any-day, anytime.
 
 I am open to help if you need some kind of expertise I have.
 If so, you can mail me. ( [mail@nihars.com](mailto:mail@nihars.com) )  
 
 
-Also, I am a big fan of anime. Will continue watching until Luffy gets one piece.
+Also, I am a big fan of manga and [anime](/anime.html).
 
 I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
 

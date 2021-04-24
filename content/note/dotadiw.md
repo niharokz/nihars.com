@@ -1,8 +1,8 @@
 ---
 title : "DOTADIW : Do One Thing And Do It Well."
 subtitle : "As hardware is becoming more capable and acceptable, developers are getting more freedom to add whatever features/bloat they want. As a result, modern-day software is becoming more and more bloated."
+showInHome : True
 date : 2019-03-26
-
 ---
 
 In today's world of bloated software, UNIX philosophy still stands strong. As hardware is becoming more capable and acceptable, developers are getting more freedom to add whatever features/bloat they want. As a result, modern-day software is becoming more and more bloated.  

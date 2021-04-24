@@ -1,6 +1,7 @@
 ---
 title : "Use GitLab and GitHub for the same repository" 
 subtitle : "use gitlab and github together for same repository on one machine" 
+showInHome : True
 date : 2021-02-14
 ---
 

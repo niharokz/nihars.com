@@ -1,7 +1,7 @@
 ---
 title : "Privacy Policy."
 subtitle : "Privacy"
-showInHome : "No"
+showInHome : False
 date : 2016-06-06
 ---
 

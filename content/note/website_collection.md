@@ -2,7 +2,7 @@
 title: "Yesteryears Websites"
 subtitle: "Not a front end developer. But this is something I grew up with. Here is my collection of a few random websites/blogs from yesteryears."
 date: 2017-01-26
-showInHome : "No"
+showInHome : False
 meta : '
 <link rel="stylesheet" type="text/css" media="screen" href="extra.css" /> 
 '

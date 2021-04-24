@@ -1,6 +1,7 @@
 ---
 title: Why I Really Really Really Love VIM!
 subtitle: VIM or NeoVIM! Simple yet powerful text editor that can become an obsession in no time. This note is a reference for the most common commands.
+showInHome : True
 date: 2017-12-18
 ---
 
