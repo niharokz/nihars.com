@@ -2,7 +2,7 @@ pages:
   image: python:3.9
   stage: build
   before_script:
-  - pip install pidgeotto
+  - pip3 install pidgeotto
   script:
   - pidgey build
   artifacts:
