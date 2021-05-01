@@ -22,7 +22,7 @@ This is a collection of notes, pages, links, and other resources.
 \# places to get me:
 
 * [mail](mailto:mail@nihars.com)
-* [mastodon](nihar@linuxrocks.online)
+* [mastodon](https://linuxrocks.online/@nihar)
 * [gitlab](https://github.com/niharokz)
 * [telegram](https://t.me/niharokz)
 
