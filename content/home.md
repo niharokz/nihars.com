@@ -1,4 +1,4 @@
-Hey there! I'm Nihar, a hobbyist systems programmer from India. 
+Namaste! I'm Nihar, a hobbyist systems programmer from India. 
 <br>
 I have created this webpage to articulate stuff I've learned and built over the years.
    
