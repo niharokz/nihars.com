@@ -17,6 +17,7 @@ This is a collection of notes, pages, links, and other resources.
 
 * [my anime list](/anime.html)
 * [domains I own](/domain.html)
+* [crypto I hold](/crypto.html)
 
 \# places to get me:
 
