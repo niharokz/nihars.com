@@ -1,8 +1,8 @@
 ---
-title : "Wiki"
+title : "nihar's wikipage"
 subtitle : "This is a collection of notes, pages, links, and other resources."
 showInHome : False
-date : 2021-04-22
+date : 2021-05-02
 ---
 
 
@@ -22,7 +22,7 @@ This is a collection of notes, pages, links, and other resources.
 \# places to get me:
 
 * [mail](mailto:mail@nihars.com)
-* [mastodon](https://linuxrocks.online/@nihar)
+* [mastodon](https://fosstodon.org/@nihar)
 * [gitlab](https://github.com/niharokz)
 * [telegram](https://t.me/niharokz)
 
