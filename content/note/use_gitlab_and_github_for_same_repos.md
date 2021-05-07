@@ -7,11 +7,13 @@ date : 2021-02-14
 
 This article is about how to sync Gitlab and Github directly from the command line using git pull or push commands. Unlike mirror repositories, these repositories will be independent of each other. We also don't need different remote names for these repositories.
 
-But if you want to keep a mirror copy of Gitlab in Github or vice-versa, this article [Docs Github](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html) is for you.
+But if you want to keep a mirror copy of Gitlab in Github or vice-versa, [this article from Github](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html) is for you.
+
+If you want to keep github and gitlab repositories independent, then follow the below guidelines.
 
 ## Adding SSH-keys to your local machine. [optional step]
 
-Generate SSH keys for Gitlab and Github.
+Generate unique SSH keys for Gitlab and Github.
 	
 	ssh-keygen -t rsa -C "some@mail.com" -f ~/.ssh/id_rsa_gitlab 
 	ssh-keygen -t rsa -C "some@mail.com" -f ~/.ssh/id_rsa_github
