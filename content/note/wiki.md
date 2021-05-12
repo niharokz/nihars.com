@@ -10,14 +10,14 @@ This is a collection of notes, pages, links, and other resources.
 
 \# about
 
-* [nihar](/nihar.html)
-* [now](/now.html)
+* [nihar](/nihar)
+* [now](/now)
 
 \# useless list
 
-* [my anime list](/anime.html)
-* [domains I own](/domain.html)
-* [crypto I hold](/crypto.html)
+* [my anime list](/anime)
+* [domains I own](/domain)
+* [crypto I hold](/crypto)
 
 \# places to get me:
 

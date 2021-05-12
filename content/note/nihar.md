@@ -17,7 +17,7 @@ I am open to help if you need some kind of expertise I have.
 If so, you can mail me. ( [mail@nihars.com](mailto:mail@nihars.com) )  
 
 
-Also, I am a big fan of manga and [anime](/anime.html).
+Also, I am a big fan of manga and [anime](/anime).
 
 I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
 

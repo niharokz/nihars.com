@@ -11,6 +11,6 @@ date : 2021-04-24
 * Improving [pidgeotto](https://github.com/niharokz/pidgeotto)
 * Designing this website
 * Reading Homo Deus
-* Watching [anime](/anime.html)
+* Watching [anime](/anime)
 
 This page is inspired by Derek Sivers’s [now page movement](https://nownownow.com/).

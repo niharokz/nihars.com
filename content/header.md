@@ -1,4 +1,4 @@
 <nav> //
-<a href="/now.html">now</a> //
-<a href="/wiki.html">wiki</a> 
+<a href="/now">now</a> //
+<a href="/wiki">wiki</a> 
 </nav>
