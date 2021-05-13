@@ -15,7 +15,7 @@ This is a collection of notes, pages, links, and other resources.
 
 \# useless list
 
-* [my anime list](/anime)
+* [anime I watch](/anime)
 * [domains I own](/domain)
 * [crypto I hold](/crypto)
 

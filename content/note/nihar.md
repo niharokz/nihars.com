@@ -5,7 +5,7 @@ showInHome : False
 date : 2021-04-24
 ---
 
-<img src="/nihar.jpg" height="120" style="float: right;margin-left: 3%">
+<img src="/nihar.webp" style="float: right;margin-left: 3%">
 I am Nihar Samantaray, a developer from India.
 I enjoy turning complex codes and projects into simple and modular ones.
 By day, I am a System Engineer at Edgeverve where we build modern banking applications. By night, I am an open-source developer.
