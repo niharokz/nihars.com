@@ -32,13 +32,13 @@
 
 <body>
 <header>
-<h1>{{ post_title }} </h1>  
+<h1>{{ post_title }}</h1>  
 </header>
 <article>
 {{ article }}
 {% if date %} 
-<p># Last updated on <time>{{ date.strftime('%d %b %Y') }}.</time></p>
 {% endif %}
+<p># Last updated on <time>{{ date.strftime('%d %b %Y') }}.</time></p>
 </article>
 <footer>
 {{ footer }}

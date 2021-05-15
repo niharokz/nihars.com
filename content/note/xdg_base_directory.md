@@ -47,4 +47,4 @@ If you want to check if your application support XDG base specifications, please
 That's all. After doing all above, this is what my home looks like :
 
         [nihar@fybox ~]$ ls -a | wc -l
-        15
+        12

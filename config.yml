@@ -13,7 +13,7 @@ footer_md : content/footer.md # Footer content
 
 # Optional Configuration, Add your own configs here
 site-title : nihar's page on the internet
-desc : Write anything that human and machine can understand.
+desc : Personal webpage of another Systems engineer who is interested on Open Source projects based for linux environment
 css : main.css
 fav : favicon.ico
 pht : logo.png
