@@ -23,8 +23,9 @@ This is a collection of notes, pages, links, and other resources.
 
 * [mail](mailto:mail@nihars.com)
 * [mastodon](https://fosstodon.org/@nihar)
-* [gitlab](https://github.com/niharokz)
-* [telegram](https://t.me/niharokz)
+* [twitter](https://twitter.com/niharokz)
+* [gitlab](https://gitlab.com/niharokz)
+* [telegram](https://telegram.me/niharokz)
 
 \# tools i use
 
