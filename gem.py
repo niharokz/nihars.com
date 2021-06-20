@@ -22,7 +22,7 @@ try:
         logfile += "#"+post_detail.get("subtitle")+'\n'
         logfile += "> Last Modified on "+post_detail.get("date").strftime('%d %b %Y')+'\n'
         logfile += md +'\n'
-        logfile += "=> nihars.in home"
+        logfile += "=> / home"
         post_data = note.split('/')
         post_path = path.join("gem","log")
         post_file = post_data[2].replace('.md','.gmi')
