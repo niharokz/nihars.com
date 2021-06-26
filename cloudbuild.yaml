@@ -7,4 +7,4 @@ steps:
   - '-c'
   - |
           set -x && \
-          gcloud compute ssh --zone "us-central1-a" "nhrbox"  --project "aerial-studio-316704" --command='/bin/bash /home/nhr/pull.sh'
+          gcloud compute ssh --zone "us-central1-a" "nhrbox"  --project "aerial-studio-316704" --command='sudo -u nhr /bin/bash /home/nhr/pull.sh'
