@@ -6,10 +6,7 @@
   <link>{{ url }}</link>
   <description>{{ subtitle }}</description>
   <lastBuildDate>{{ last_date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</lastBuildDate>
-
   <language>en-IN</language>
-  <sy:updatePeriod>weekly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
 
   <image>
    <url>{{ config.get('url') }}/{{ config.get('pht') }}</url>
