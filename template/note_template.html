@@ -2,7 +2,6 @@
 <html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <title>{{ post_title }}</title>
 
@@ -36,7 +35,7 @@
 {{ article }}
 {% if date %} 
 {% endif %}
-<p># Last updated on <time>{{ date.strftime('%d %b %Y') }}.</time></p>
+<p># Last updated on <time>{{ date.strftime('%Y-%m-%d') }}.</time></p>
 </article>
 <footer>
 {{ footer }}
