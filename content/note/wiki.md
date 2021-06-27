@@ -2,7 +2,7 @@
 title : "nihar's wikipage"
 subtitle : "This is a collection of notes, pages, links, and other resources."
 showInHome : False
-date : 2021-05-02
+date : 2021-06-27
 ---
 
 
@@ -22,14 +22,12 @@ This is a collection of notes, pages, links, and other resources.
 \# places to get me:
 
 * [mail](mailto:mail@nihars.com)
+* [keyoxide](https://keyoxide.org/hkp/63F683DF74B36775429B2F0EC9CF021EB359F260)
 * [mastodon](https://fosstodon.org/@nihar)
 * [twitter](https://twitter.com/niharokz)
 * [gitlab](https://gitlab.com/niharokz)
 * [telegram](https://telegram.me/niharokz)
 
-\# tools i use
+\# other links
 
-* predator helios 300
-* dwm
-* neovim 
-* samsung a50 
+* [uses](/uses) 

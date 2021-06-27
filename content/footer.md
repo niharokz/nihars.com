@@ -1,4 +1,4 @@
-<span>Questions or comments? You can contact me via <a href="mailto:mail@nihars.com">e-mail</a>.</span>
+<span>Questions or comments? Contact me via <a href="mailto:mail@nihars.com">e-mail</a> × <a href="/pgp.html">pgp</a>.</span>
 <br>
 <a href="/">homepage</a> //
 <a href="/rss.xml">feed</a> //
