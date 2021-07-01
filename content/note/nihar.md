@@ -5,7 +5,9 @@ showInHome : False
 date : 2021-06-15
 ---
 
-<img src="/nihar.webp" style="float: left;padding-right: 3%" alt="Nihar Samantaray Image" width="123" height="160">
+<img src="/nihar.webp" alt="Nihar Samantaray Image">
+
+
 I am Nihar Samantaray, a developer from India.
 I enjoy turning complex codes and projects into simple and modular ones.
 By day, I am a System Engineer at Edgeverve where we build modern banking applications. By night, I am an open-source developer.
@@ -21,6 +23,4 @@ Also, I am a big fan of manga and [anime](/anime).
 
 I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
 
-* [facebook](https://d.facebook.com/niharokz)
 * [twitter](https://twitter.com/niharokz)
-* [instagram](https://instagram.com/niharokz)

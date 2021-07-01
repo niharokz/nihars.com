@@ -1,5 +1,5 @@
 ---
-title : "making webpage serve faster"
+title : "Making Webpage Serve Faster"
 subtitle : "Tweaks done to serve this website faster"
 showInHome : True
 date : 2021-06-27
