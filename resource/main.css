@@ -1,12 +1,12 @@
-:root {--bg:#FFFFFF; --txt:#484B4F; --thm:#42938C}
-@media (prefers-color-scheme: dark) {:root {--bg:#1A1E23; --txt:#C6DFDD; --thm:#42938C}}
-body {font: 1.2em/1.4em sans-serif;	background: var(--bg); color: var(--txt); max-width: 600px; margin: 7% auto auto auto; padding: 0 5%}
+:root {--bg:#E4F0ED; --txt:#484B4F; --thm:#42938C}
+@media (prefers-color-scheme: dark) {:root {--bg:#080C0C; --txt:#C6DFDD; --thm:#42938C}}
+body {font: 1.2em/1.6em sans-serif;	background: var(--bg); color: var(--txt); max-width: 600px; margin: 7% auto auto auto; padding: 0 5%}
 h1,h2,h3 {font-size:1em}
 a {color: var(--thm); text-decoration: none}
 a:hover {color: var(--bg); background-color: var(--thm); padding-top: 3px}
 header h1 {color: var(--thm);font-size: 1.2em; display: inline}
 nav {font-weight: bold; display:inline}
-ul {padding-left: 20px; list-style-type:'-- '}
+ul {padding-left: 20px; list-style-type:'-- '; line-height:1.4}
 pre {border: 1px solid var(--txt); padding: 1em; overflow-x: auto}
 code {background: var(--thm)}
 pre code {background: none}

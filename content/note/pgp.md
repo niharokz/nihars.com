@@ -15,7 +15,7 @@ date : 2021-06-27
 
 ## Files
 
-[Text format](_63F683DF74B36775429B2F0EC9CF021EB359F260.asc)
+[Text Format](public-key.txt)
 
 ## Plaintext
 
