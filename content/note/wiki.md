@@ -21,7 +21,7 @@ This is a collection of notes, pages, links, and other resources.
 
 \# places to get me:
 
-* [mail](mailto:mail@nihars.com)
+* [mail](mailto:hi@nihars.com)
 * [keyoxide](https://keyoxide.org/hkp/63F683DF74B36775429B2F0EC9CF021EB359F260)
 * [mastodon](https://fosstodon.org/@nihar)
 * [twitter](https://twitter.com/niharokz)

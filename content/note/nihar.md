@@ -16,7 +16,7 @@ By day, I am a System Engineer at Edgeverve where we build modern banking applic
 * Prefers CLI workflow. VIM over VSCode any-day, anytime.
 
 I am open to help if you need some kind of expertise I have.
-If so, you can mail me. ( [mail@nihars.com](mailto:mail@nihars.com) )  
+If so, you can mail me. ( [hi@nihars.com](mailto:hi@nihars.com) )  
 
 
 Also, I am a big fan of manga and [anime](/anime).
