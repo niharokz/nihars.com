@@ -2,7 +2,7 @@
 title : "about nihar"
 subtitle : "about nihar"
 showInHome : False
-date : 2021-06-15
+date : 2021-07-04
 ---
 
 <img src="/nihar.webp" alt="Nihar Samantaray Image">
@@ -24,3 +24,4 @@ Also, I am a big fan of manga and [anime](/anime).
 I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
 
 * [twitter](https://twitter.com/niharokz)
+* [instagram](https://www.instagram.com)
