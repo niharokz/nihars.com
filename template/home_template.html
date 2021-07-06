@@ -8,8 +8,8 @@
 <meta name="description" content=" {{ config.get('desc') }}">
 <title>{{ config.get('site-title') }}</title>
 <link rel="shortcut icon" href="{{ config.get('fav') }}" />
-<link rel="stylesheet" type="text/css" media="screen" href="{{ config.get('css') }}" />
 <link rel="alternate" type="application/atom+xml" title="Recent blog posts" href="/rss.xml">
+<link rel="pgpkey" type="application/pgp-keys" href="{{ config.get('pgpkey') }}">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
 <section>
 {{article}}
 <ul>
-{% for post in posts %}{% if (post.showInHome is undefined) or post.showInHome %}<li>{{ post.date.strftime('%d %m %Y') }} -- <a href="{{ post.url[0:-5] }}">{% filter lower %} {{ post.title }} {% endfilter %}</a></li>{% endif %}{% endfor %}
+{% for post in posts %}{% if (post.showInHome is undefined) or post.showInHome %}<li><time>{{ post.date.strftime('%Y-%m-%d') }}</time> -- <a href="{{ post.url[0:-5] }}">{% filter lower %} {{ post.title }} {% endfilter %}</a></li>{% endif %}{% endfor %}
 </ul>
 </section>
 <section>
@@ -30,4 +30,5 @@
 {{ footer }}
 </footer>
 </body>
+<style>:root{--bg:#E5F0EF;--txt:#5A5D61;--thm:#42938C}@media (prefers-color-scheme:dark){:root{--bg:#080C0C;--txt:#C6DFDD;--thm:#42938C}}body{background:var(--bg);color:var(--txt);font:1.2em/1.6em sans-serif;max-width:660px;margin:7% auto auto auto;padding:0 5%}h1,h2,h3{font-size:1em}a{color:var(--thm);text-decoration:none}a:hover{color:var(--bg);background-color:var(--thm);padding-top:3px}header h1{color:var(--thm);font-size:1.2em;display:inline}nav{font-weight:700;display:inline}ul{padding-left:20px;list-style-type:'-- ';line-height:1.4}pre{border:1px solid var(--txt);padding:1em;overflow-x:auto}code{background:var(--thm)}pre code{background:0 0}@media(max-width:24rem){body{font:1em/1.4em sans-serif}}</style>
 </html>

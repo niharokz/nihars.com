@@ -18,5 +18,6 @@ css : main.css
 fav : favicon.ico
 pht : logo.png
 mail : hi@nihars.com
+pgpkey : publickey.asc
 
 homefooter : '<p>&empty; Proud member of <a href="https://512kb.club/">512kb.club</a> and <a href="https://1mb.club/">1mb.club</a>.</p>'
