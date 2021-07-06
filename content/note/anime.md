@@ -2,7 +2,7 @@
 title : "otaku for life"
 subtitle : "Anime Collection"
 showInHome : False 
-date : 2021-04-23
+date : 2021-07-06
 ---
         
 It was 2003, a 9-year-old me, with Dragon Ball Z on Cartoon Network. 
@@ -25,7 +25,9 @@ I will list them below.
 * Naruto Shippuden
 * Bleach
 * Fairy Tail
+* Fate/stay night
 
 \# to watch
 
 * Haikyū!!
+* Beelzebub

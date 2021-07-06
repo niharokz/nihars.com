@@ -8,7 +8,7 @@
 #       ██║ ╚████║██║██║  ██║██║  ██║██║  ██║███████║
 #       ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 #       DRAFTED BY [https://nihar.page] ON 20-06-2021.
-#       SOURCE [gem.py] LAST MODIFIED ON 20-06-2021.
+#       SOURCE [gem.py] LAST MODIFIED ON 06-07-2021.
 #
 
 from yaml import safe_load
@@ -66,9 +66,11 @@ try:
 
     logFile+="\n## Places to get me: \n=> https://nihar.page Website\n=> mailto:hi@nihars.com Email nihar (hi@nihars.com)\n"
     logFile+="=> https://github.com/niharokz My Git\n=> https://fosstodon.org/@nihar Mastodon\n=> https://nihar.page/rss.xml RSS articles"
+    logFile+="=> https://nihar.page/public-key.txt pgpkey"
 
     with open(path.join("gem","index.gmi"),'w') as output_file:
         output_file.write(logFile)
         
 except:
     print("Gem creation failed")
+

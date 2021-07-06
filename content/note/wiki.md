@@ -2,7 +2,7 @@
 title : "nihar's wikipage"
 subtitle : "This is a collection of notes, pages, links, and other resources."
 showInHome : False
-date : 2021-06-27
+date : 2021-07-06
 ---
 
 
@@ -27,6 +27,7 @@ This is a collection of notes, pages, links, and other resources.
 * [twitter](https://twitter.com/niharokz)
 * [gitlab](https://gitlab.com/niharokz)
 * [telegram](https://telegram.me/niharokz)
+* matrix @nihar.page:matrix.org
 
 \# other links
 

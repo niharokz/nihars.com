@@ -15,12 +15,6 @@ Now I want to keep everything simple and fast. I have followed the below step to
 
 Javascript is an awesome language. But on this website, there is no need for javascript.
  
-## Removal of div tags
-
-HTML5 is bundled with so many functional tags like main, article, section, header, footer, etc. Using those native tags is always a good option over div tags. 
-
-It won't improve or decrease any performance, but it will make code clean and clutter-free.
-
 ## Removal of CSS class
 
 Tailwind or bootstrap CSS frameworks mostly depend on css class files for UI elements. But class files are not mandatory. We can use it directly via tag element for every tags.
@@ -47,3 +41,9 @@ use this
 Image format webp, a new image format that provides lossless and lossy compression for the web, and supports transparent images too.
 
 SVG is also very compressible and lightweight; An image quality remains high regardless of the compression rate.
+
+## Extra - Removal of div tags
+
+HTML5 is bundled with so many functional tags like main, article, section, header, footer, etc. Using those native tags is always a good option over div tags. 
+
+It won't improve or decrease any performance, but it will make code clean and clutter-free.
