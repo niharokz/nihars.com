@@ -69,9 +69,8 @@ pre code {
     background: none
 }
 
-@media(max-width:24rem) {
+@media(max-width:480px) {
     body {
         font: 1em/1.4em sans-serif;
-
     }
 }
