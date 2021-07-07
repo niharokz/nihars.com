@@ -25,6 +25,8 @@ This is a collection of notes, pages, links, and other resources.
 * [keyoxide](https://keyoxide.org/hkp/63F683DF74B36775429B2F0EC9CF021EB359F260)
 * [mastodon](https://fosstodon.org/@nihar)
 * [twitter](https://twitter.com/niharokz)
+* [codeberg](https://codeberg.org/niharokz)
+* [github](https://github.com/niharokz)
 * [gitlab](https://gitlab.com/niharokz)
 * [telegram](https://telegram.me/niharokz)
 * matrix @nihar.page:matrix.org

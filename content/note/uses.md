@@ -5,7 +5,7 @@ showInHome : False
 date : 2021-06-27
 ---
             
-BTW, I use Arch. [dotfiles](https://github.com/niharokz/dotfile)
+BTW, I use Arch. [dotfiles](https://codeberg.org/niharokz/dotfile)
 
 \# Software
 
@@ -18,7 +18,7 @@ BTW, I use Arch. [dotfiles](https://github.com/niharokz/dotfile)
 
 \# Services
 
-* Git ; Gitlab and Github
+* Git ; Codeberg
 * DNS ; Cloudflare
 * Server ; Google Cloud Engine
 

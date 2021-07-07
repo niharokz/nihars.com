@@ -8,7 +8,7 @@ date : 2021-07-06
 * Living in Bhubaneswar, India
 * Currently working from home
 * Working at [Edgeverve](https://www.edgeverve.com/)
-* Improving [pidgeotto](https://github.com/niharokz/pidgeotto)
+* Improving [pidgeotto](https://codeberg.org/niharokz/pidgeotto)
 * Implementing a startup idea 
 * Designing this website
 * Watching [anime](/anime)
