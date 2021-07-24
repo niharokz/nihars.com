@@ -24,4 +24,4 @@ Also, I am a big fan of manga and [anime](/anime).
 I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
 
 * [twitter](https://twitter.com/niharokz)
-* [instagram](https://www.instagram.com)
+* [instagram](https://www.instagram.com/nihar.page)
