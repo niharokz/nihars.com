@@ -2,14 +2,13 @@
 title : "what am I doing now"
 subtitle : "now"
 showInHome : False
-date : 2021-07-06
+date : 2021-09-18
 ---
 
 * Living in Bhubaneswar, India
 * Currently working from home
 * Working at [Edgeverve](https://www.edgeverve.com/)
-* Improving [pidgeotto](https://codeberg.org/niharokz/pidgeotto)
-* Implementing a startup idea 
+* Improving [pidgeotto](https://gitlab.com/niharokz/pidgeotto)
 * Designing this website
 * Watching [anime](/anime)
 
