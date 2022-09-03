@@ -7,7 +7,7 @@
 #       ██║╚██╗██║██║██╔══██║██╔══██║██╔══██╗╚════██║
 #       ██║ ╚████║██║██║  ██║██║  ██║██║  ██║███████║
 #       ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-#       DRAFTED BY [https://nihar.page] ON 20-06-2021.
+#       DRAFTED BY [https://nihars.com] ON 20-06-2021.
 #       SOURCE [gem.py] LAST MODIFIED ON 07-07-2021.
 #
 
@@ -64,9 +64,9 @@ try:
         logFile += "=> /log/"+log.get("url")+" "
         logFile += log.get("date").strftime('%d %b %Y')+" - "+log.get("title")+"\n"
 
-    logFile+="\n## Places to get me: \n=> https://nihar.page Website\n=> mailto:hi@nihars.com Email nihar (hi@nihars.com)\n"
-    logFile+="=> https://codeberg.org/niharokz My Git\n=> https://fosstodon.org/@nihar Mastodon\n=> https://nihar.page/rss.xml RSS articles"
-    logFile+="=> https://nihar.page/public-key.txt pgpkey"
+    logFile+="\n## Places to get me: \n=> https://nihars.com Website\n=> mailto:hi@nihars.com Email nihar (hi@nihars.com)\n"
+    logFile+="=> https://codeberg.org/niharokz My Git\n=> https://fosstodon.org/@nihar Mastodon\n=> https://nihars.com/rss.xml RSS articles"
+    logFile+="=> https://nihars.com/public-key.txt pgpkey"
 
     with open(path.join("gem","index.gmi"),'w') as output_file:
         output_file.write(logFile)

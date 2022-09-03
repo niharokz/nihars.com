@@ -2,12 +2,12 @@
 title : "what am I doing now"
 subtitle : "now"
 showInHome : False
-date : 2021-09-18
+date : 2022-09-03
 ---
 
-* Living in Bhubaneswar, India
-* Currently working from home
-* Working at [Edgeverve](https://www.edgeverve.com/)
+* Living in Dubai
+* Currently working for Emirates NBD bank.
+* Working on automating things.
 * Improving [pidgeotto](https://gitlab.com/niharokz/pidgeotto)
 * Designing this website
 * Watching [anime](/anime)

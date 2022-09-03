@@ -2,7 +2,7 @@
 title : "nihar's wikipage"
 subtitle : "This is a collection of notes, pages, links, and other resources."
 showInHome : False
-date : 2021-12-25
+date : 2022-09-04
 ---
 
 
@@ -24,7 +24,7 @@ This is a collection of notes, pages, links, and other resources.
 * [mail](mailto:hi@nihars.com)
 * [keyoxide](https://keyoxide.org/hkp/63F683DF74B36775429B2F0EC9CF021EB359F260)
 * [mastodon](https://fosstodon.org/@nihar)
-* [twitter](https://twitter.com/niharpage)
+* [twitter](https://twitter.com/niharokz)
 * [codeberg](https://codeberg.org/niharokz)
 * [github](https://github.com/niharokz)
 * [gitlab](https://gitlab.com/niharokz)

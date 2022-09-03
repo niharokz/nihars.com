@@ -2,7 +2,7 @@
 title : "about nihar"
 subtitle : "about nihar"
 showInHome : False
-date : 2021-12-25
+date : 2022-09-03
 ---
 
 I am Nihar Samantaray, a developer from India.
@@ -18,7 +18,7 @@ If so, you can mail me. ( [hi@nihars.com](mailto:hi@nihars.com) )
 
 Also, I am a big fan of manga and [anime](/anime).
 
-I don't use these social networks as much as I use Mastodon, but still, if you want to connect, feel free.
+I don't use these social networks. But still, if you want to connect, feel free.
 
-* [twitter](https://twitter.com/niharpage)
-* [instagram](https://www.instagram.com/nihar.page)
+* [twitter](https://twitter.com/niharokz)
+* [instagram](https://www.instagram.com/niharokz)
